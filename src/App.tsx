@@ -1,5 +1,5 @@
 import "./App.css";
-import ConnectButton from "./component/CollectButton";
+import ConnectButton from "./component/ConnectButton";
 import Web3ModalProvider from "./component/Web3ModalProvider";
 
 function App() {
